@@ -1,4 +1,4 @@
-<h1 align="center">Hey!! 👋, I'm Vishwaraj Pawar</h1>
+<h1 align="center">Hey!! 👋, I'm Vishwaraj Pawar</h1>  [![](https://visitcount.itsvg.in/api?id=vishwarajpawar&icon=0&color=9)](https://visitcount.itsvg.in)
 
 <h3> 💫 About Me:</h3>
 I'm a Software Engineering Professional. <br>Well-versed in the basics of Software Development, Python, C#, and Java, <br>Have Knowledge regarding Terraform, GitHub, and CI/CD. And Azure Cloud.<br>I like to take a challenge that will push me out of my comfort zone and make me upgrade myself to the next best version.<br>I am currently learning Full stack development.<br>want to become a well-rounded software engineer to build solutions to real problems and fun products. <br><br>
@@ -21,6 +21,5 @@ I'm a Software Engineering Professional. <br>Well-versed in the basics of Softwa
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vishwarajpawar&icon=0&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
