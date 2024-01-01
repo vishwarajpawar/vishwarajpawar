@@ -6,8 +6,9 @@
 Eager to help Create optimized seamless scalable solutions. I also like music, Singing and Exploring new places.</p>
 <br>
 ---
-<br>
-<ul>Technologies & Frameworks 💻🛠️:
+<be>
+<h2>Technologies & Frameworks 💻🛠️:</h2>
+<ul>
 Languages: JavaScript, C#, Python, Java 
 Web Technologies: JavaScript frameworks and libraries, Flask, Django, .NET Core framework and libraries.
 Databases: NoSQL and SQL Relational databases
