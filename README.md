@@ -1,10 +1,21 @@
 <h1 align="center">Hey!! 👋, I'm Vishwaraj Pawar</h1> 
 
 <h3> 💫 About Me:</h3>
-I'm a full-stack developer with a passion for Site reliability engineering. It's all about learning new technologies and tackling engineering challenges. 
+I'm a Full-stack developer with a passion for Site reliability engineering. It's all about learning new technologies and tackling engineering challenges. 
 Eager to help Create optimized seamless scalable solutions. I also like music, Singing and Exploring new places.  
 
+Technologies & Frameworks 💻🛠️:
+Languages: JavaScript, C#, Python, Java 
+Web Technologies: JavaScript frameworks and libraries, Flask, Django, .NET Core framework and libraries.
+Databases: NoSQL and SQL Relational databases
+DevOps Tools: Azure, Terraform, Ansible, Docker, CI/CD pipelines, Grafana, Prometheus.
+Version Control Systems:  Git / GitHub 
+Operating Systems: Linux server environment, Windows
 
+Current Learning Goals 🎯
+Learn and Solidify Full Stack Development.
+Master DSA and System design.
+Learn about SRE.
 
-[![](https://visitcount.itsvg.in/api?id=vishwarajpawar&icon=0&color=9)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Contact Info: 
+vishwarajsp007@gmail.com
