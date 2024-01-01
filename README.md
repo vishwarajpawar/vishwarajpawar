@@ -7,7 +7,6 @@ Eager to help Create optimized seamless scalable solutions. I also like music, S
 <br>
 <h2>Technologies & Frameworks 💻🛠️:</h2>
 <ul>
-<li></li>
 <li>Languages: JavaScript, C#, Python, Java.</li>
 <li>Web Technologies: JavaScript frameworks and libraries, Flask, Django, .NET Core framework and libraries.</li>
 <li>Databases: NoSQL and SQL Relational databases.</li>
@@ -15,10 +14,13 @@ Eager to help Create optimized seamless scalable solutions. I also like music, S
 <li>Version Control Systems:  Git / GitHub.</li>
 <li>Operating Systems: Linux server environment, Windows.</li>
 </ul>
-Current Learning Goals 🎯
-Learn and Solidify Full Stack Development.
-Master DSA and System design.
-Learn about SRE.
 
-Contact Info: 
-vishwarajsp007@gmail.com
+<h2>Current Learning Goals 🎯:</h2>
+<ul>
+<li>Learn and Solidify Full Stack Development.</li>
+<li>Master DSA and System design.</li>
+<li>Learn about SRE.</li>
+</ul>
+<br>
+<h2>Contact Info: </h2>
+<h4><a href="vishwarajsp007@gmail.com">vishwarajsp007@gmail.com</a></h4>
