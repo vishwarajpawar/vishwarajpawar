@@ -5,16 +5,15 @@
 <p> I'm a Full-stack developer with a passion for Site reliability engineering. It's all about learning new technologies and tackling engineering challenges. 
 Eager to help Create optimized seamless scalable solutions. I also like music, Singing and Exploring new places.</p>
 <br>
----
-<be>
 <h2>Technologies & Frameworks 💻🛠️:</h2>
 <ul>
-Languages: JavaScript, C#, Python, Java 
-Web Technologies: JavaScript frameworks and libraries, Flask, Django, .NET Core framework and libraries.
-Databases: NoSQL and SQL Relational databases
-DevOps Tools: Azure, Terraform, Ansible, Docker, CI/CD pipelines, Grafana, Prometheus.
-Version Control Systems:  Git / GitHub 
-Operating Systems: Linux server environment, Windows
+<li></li>
+<li>Languages: JavaScript, C#, Python, Java.</li>
+<li>Web Technologies: JavaScript frameworks and libraries, Flask, Django, .NET Core framework and libraries.</li>
+<li>Databases: NoSQL and SQL Relational databases.</li>
+<li>DevOps Tools: Azure, Terraform, Ansible, Docker, CI/CD pipelines, Grafana, Prometheus.</li>
+<li>Version Control Systems:  Git / GitHub.</li>
+<li>Operating Systems: Linux server environment, Windows.</li>
 </ul>
 Current Learning Goals 🎯
 Learn and Solidify Full Stack Development.
