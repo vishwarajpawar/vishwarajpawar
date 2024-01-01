@@ -1,8 +1,7 @@
 <h1 align="center">Hey!! 👋, I'm Vishwaraj Pawar</h1> 
 
 <h3> 💫 About Me:</h3>
-FullStack Developer. <br>Well-versed in the basics of Software Development, javascript, Python, C#, and Java, <br>Have Knowledge regarding Terraform, GitHub, and CI/CD. And Azure Cloud.<br>I like to take a challenge that will push me out of my comfort zone and make me upgrade myself to the next best version.<br>
-
+A Software Engineering Professional with an exemplary set of skills. With 2.5 years of hands-on and diverse experience in development and Cloud Engineering. Passionate about learning new technologies and tackling engineering challenges. eager to help Create optimized seamless scalable solutions.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vishwaraj_007/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishwarajpawar/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Vishwaraj_Pawar) 
 
