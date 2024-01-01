@@ -3,9 +3,10 @@
 
 <h3> 💫 About Me:</h3>
 I'm a Full-stack developer with a passion for Site reliability engineering. It's all about learning new technologies and tackling engineering challenges. 
-Eager to help Create optimized seamless scalable solutions. I also like music, Singing and Exploring new places.  
-\
-\
+Eager to help Create optimized seamless scalable solutions. I also like music, Singing and Exploring new places.\
+-
+-
+-
 Technologies & Frameworks 💻🛠️:
 Languages: JavaScript, C#, Python, Java 
 Web Technologies: JavaScript frameworks and libraries, Flask, Django, .NET Core framework and libraries.
