@@ -2,12 +2,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwarajpawar&label=Profile%20views&color=0e75b6&style=flat" alt="vishwarajpawar" /> </p>
 
 <h3> 💫 About Me:</h3>
-<p>I'm a Full-stack developer with a passion for Site reliability engineering. It's all about learning new technologies and tackling engineering challenges. 
+<p> I'm a Full-stack developer with a passion for Site reliability engineering. It's all about learning new technologies and tackling engineering challenges. 
 Eager to help Create optimized seamless scalable solutions. I also like music, Singing and Exploring new places.<p/>
 <br>
--
--
--
+---
 Technologies & Frameworks 💻🛠️:
 Languages: JavaScript, C#, Python, Java 
 Web Technologies: JavaScript frameworks and libraries, Flask, Django, .NET Core framework and libraries.
