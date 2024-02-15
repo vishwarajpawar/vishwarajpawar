@@ -3,12 +3,12 @@
 
 <h3> 💫 About Me:</h3>
 <p> I'm a Full-stack developer with a passion for Site reliability engineering. It's all about learning new technologies and tackling engineering challenges. 
-Eager to help Create optimized seamless scalable solutions. I also like music, Singing and Exploring new places.</p>
+Eager to help Create optimized seamless scalable solutions. I also like music, Singing, and Exploring new places.</p>
 <br>
 <h2>Technologies & Frameworks 💻🛠️:</h2>
 <ul>
 <li>Languages: JavaScript, C#, Python, Java.</li>
-<li>Web Technologies: JavaScript frameworks and libraries, Flask, Django, .NET Core framework and libraries.</li>
+<li>Web Technologies: JavaScript frameworks and libraries, FastAPI , Flask, Django, .NET Core framework and libraries.</li>
 <li>Databases: NoSQL and SQL Relational databases.</li>
 <li>DevOps Tools: Azure, Terraform, Ansible, Docker, CI/CD pipelines, Grafana, Prometheus.</li>
 <li>Version Control Systems:  Git / GitHub.</li>
